@@ -1,6 +1,9 @@
 from flask import Flask, render_template
+from jinja2 import TemplateNotFound
 app = Flask(__name__)
- 
+
+from db import *
+
 @app.route("/")
 def home():
 	try:
