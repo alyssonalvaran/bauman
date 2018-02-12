@@ -96,5 +96,9 @@ Coming soon! -->
 ## Authors
 
 * **Alysson Alvaran** - [GitHub](https://github.com/alyssonalvaran)
-* **Erinel Alberto**
-* **Rose Ann Canizo**
+* **Erinel Alberto** - [GitHub](https://github.com/ealberto)
+* **Rose Ann Canizo** - [GitHub](https://github.com/canizoroseann)
+* **Roland Ciano, Jr.** - [GitHub](https://github.com/CianoRoland)
+* **France Delos Santos** - [GitHub](https://github.com/kuysfrance)
+* **Ma. Christina Olano** - [GitHub](https://github.com/olanoolano)
+* **Ma. Jane Villacacan** - [GitHub](https://github.com/JaneVillacacan)
